@@ -10,7 +10,7 @@
 - ✅ High Level Design (HLD) vs Low Level Design (LLD)
 - ✅ Monolithic vs Microservices Architecture
 - ✅ Computer Architecture in System design
-- ✅ Scalability, Availability, Reliability Explained
+- ✅ System Performance Metrics Explained - Scalability, Availability, Reliability Explained
 - ✅ Load Balancer, Caching, CDN, Database Design
 - ✅ System Design Use Cases (e.g. YouTube, WhatsApp, URL Shortener)
 - ✅ API Design, Database Schema & Class Diagram
