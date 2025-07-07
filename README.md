@@ -11,7 +11,10 @@
 - ✅ Monolithic vs Microservices Architecture
 - ✅ Computer Architecture in System design
 - ✅ System Performance Metrics Explained - Scalability, Availability, Reliability Explained
-- ✅ Load Balancer, Caching, CDN, Database Design
+- ✅ Scalability in System Design
+- ✅ Basic Networking in System Design
+- ✅ Caching in System Design
+- ✅ Database in System Design
 - ✅ System Design Use Cases (e.g. YouTube, WhatsApp, URL Shortener)
 - ✅ API Design, Database Schema & Class Diagram
 - ✅ Real-world System Design Interview Preparation
@@ -44,12 +47,12 @@
 | 01 | System Design কী, কেন দরকার |
 | 02 | High Level Design vs Low Level Design |
 | 03 | Monolith vs Microservices |
-| 04 | Scalability, Reliability, Availability |
-| 05 | Load Balancer Explained |
-| 06 | Caching System (Redis/Memcached) |
-| 07 | Database Sharding, Indexing |
-| 08 | Designing a URL Shortener |
-| 09 | Designing WhatsApp Chat App |
+| 04 | Computer Architecture in System design |
+| 05 | System Performance Metrics Explained - Scalability, Availability, Reliability Explained |
+| 06 | Scalability in System Design
+| 07 | Caching in System Design
+| 08 | Database in System Design
+| 09 | Basic Networking in System Design |
 | 10 | Designing YouTube System |
 | ... | আরও আসছে 🔄 |
 
