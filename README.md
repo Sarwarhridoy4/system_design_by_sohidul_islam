@@ -13,6 +13,7 @@
 - ✅ System Performance Metrics Explained - Scalability, Availability, Reliability Explained
 - ✅ Scalability in System Design
 - ✅ Basic Networking in System Design
+- ✅ CAP theorem - Brewer's theorem
 - ✅ Caching in System Design
 - ✅ Database in System Design
 - ✅ System Design Use Cases (e.g. YouTube, WhatsApp, URL Shortener)
@@ -50,6 +51,7 @@
 | 04 | Computer Architecture in System design |
 | 05 | System Performance Metrics Explained - Scalability, Availability, Reliability Explained |
 | 06 | Scalability in System Design
+| 07 | CAP theorem - Brewer's theorem
 | 07 | Caching in System Design
 | 08 | Database in System Design
 | 09 | Basic Networking in System Design |
